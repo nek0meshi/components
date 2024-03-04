@@ -1,4 +1,5 @@
 import type { Preview } from "@storybook/react";
+import '../node_modules/bulma/css/bulma.css'
 
 const preview: Preview = {
   parameters: {
