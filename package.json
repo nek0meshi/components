@@ -16,7 +16,8 @@
     "prettier:fix": "prettier -w .",
     "preview": "vite preview",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build"
+    "build-storybook": "storybook build",
+    "playwright": "playwright test"
   },
   "dependencies": {
     "bulma": "^0.9.4",
